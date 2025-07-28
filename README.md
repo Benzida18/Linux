@@ -1,3 +1,9 @@
+
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/a7b147c2-b889-40b7-8a30-a185d1c793ff" />
+
+
+
+
 # My Linux Learning Journey
 
 Welcome to my Linux learning repository! This space documents everything I’ve explored so far as I build up my skills in Linux system usage, scripting, and server management.
